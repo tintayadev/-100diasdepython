@@ -1,5 +1,5 @@
 """
-    Biienvenidos al dia 38 de #100diasdepython
+    Biienvenidos al dia 39 de #100diasdepython
             El reto de hoy es:
 Utiliza el conjunto del reto anterior y verifica si tienes
 un gato en el conjunto. Imprime el resultado.

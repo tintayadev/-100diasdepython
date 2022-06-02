@@ -1,10 +1,7 @@
 """
-            Biienvenidos al dia 9 de #100diasdepython
-                El reto de hoy es:
-    Evalua una expresion para ver si un numero es mayor
-     que otro e imprimeel resultado
+    Biienvenidos al dia 38 de #100diasdepython
+            El reto de hoy es:
+Declara un conjunto de 5 animales e imprime el resultado
 """
-n1 = 12
-n2 = 9
-resultado = n1 > n2
-print(resultado)
+animales = {"Pinguino", "Flamenco", "Panda", "Leon", "Serpiente"}
+print(animales)
